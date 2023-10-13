@@ -22,7 +22,6 @@ const fs = require('fs');
             console.log(`[+] Processing ${facultyName} ${angkatan} - ${datas.length} data`);
 
             arr.push({
-                id: i + 1,
                 faculty: facultyName,
                 data: {
                     angkatan: angkatan,
