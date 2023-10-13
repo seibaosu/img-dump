@@ -1,0 +1,15 @@
+{
+  "name": "img-dump",
+  "version": "1.0.0",
+  "description": "A tool for dump a img from university site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seiba",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^2.6.0"
+  }
+}
